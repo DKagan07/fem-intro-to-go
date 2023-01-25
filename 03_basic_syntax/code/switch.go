@@ -19,30 +19,30 @@ package main
 // 		fmt.Println("You're not from around here.")
 // 	}
 
-// 	// 	// ****************************
-// 	// var i int
+// 		// ****************************
+// 	var i int
 
-// 	// switch {
-// 	// case i > 10:
-// 	// 	fmt.Println("Greater than 10")
-// 	// case i < 10:
-// 	// 	fmt.Println("Less than 10")
-// 	// default:
-// 	// 	fmt.Println("Is 10")
-// 	// }
+// 	switch {
+// 	case i > 10:
+// 		fmt.Println("Greater than 10")
+// 	case i < 10:
+// 		fmt.Println("Less than 10")
+// 	default:
+// 		fmt.Println("Is 10")
+// 	}
 
-// 	// 	// ****************************
+// 		// ****************************
 // 	// var i int = 9
 
-// 	// switch {
-// 	// case i != 10:
-// 	// 	fmt.Println("Does not equal 10")
-// 	// 	fallthrough
-// 	// case i < 10:
-// 	// 	fmt.Println("Less than 10")
-// 	// case i > 10:
-// 	// 	fmt.Println("Greater than 10")
-// 	// default:
-// 	// 	fmt.Println("Is 10")
-// 	// }
+// 	switch {
+// 	case i != 10:
+// 		fmt.Println("Does not equal 10")
+// 		fallthrough
+// 	case i < 10:
+// 		fmt.Println("Less than 10")
+// 	case i > 10:
+// 		fmt.Println("Greater than 10")
+// 	default:
+// 		fmt.Println("Is 10")
+// 	}
 // }
