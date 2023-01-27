@@ -1,4 +1,4 @@
-/*
+GO COMMANDS
 
 go run main.go
 
@@ -15,5 +15,3 @@ go vet
 go doc fmt.Println
 
 go get golang.org/x/lint/golint
-
-*/
